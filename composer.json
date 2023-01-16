@@ -22,7 +22,7 @@
         "php": "^8.0",
         "ext-mbstring": "*",
         "ext-pdo": "*",
-        "yiisoft/arrays": "^2.0",
+        "yiisoft/arrays": "^3.0",
         "yiisoft/db": "dev-master",
         "yiisoft/strings": "^2.0"
     },
